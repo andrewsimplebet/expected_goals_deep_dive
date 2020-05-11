@@ -18,7 +18,7 @@ Notebook 3: Calibrating an expected goals model: When our model spits out that a
 
 Notebook 4: Building tools to showcase our logistic regression model: In this notebook, we leverage David's code for plotting expected goals models, and generate plots to help answer questions about our model, and try to find useful insights to show a coach or a player.
 
-Data: For information on how to download the Wyscout data, please refer to David's video: Setting Up To Do Data Science. Please put the Wyscout data in the "Wyscout" folder of the repo to ensure that the code runs properly
+Data: For information on how to download the Wyscout data, please refer to David's video: Setting Up To Do Data Science.  In addition, please download the player data, as that is used  to determine the shooting player's favored foot. Please put the Wyscout data in the "Wyscout" folder of the repo to ensure that the code runs properly.
 
 
 Special thanks to Wyscout for the data and FCPython for the code

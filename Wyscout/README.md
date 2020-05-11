@@ -1,0 +1,1 @@
+Add your Wyscout data in this directory

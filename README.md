@@ -14,7 +14,9 @@ Notebook 1: Building a Random Forest Model for Expected Goals: In this notebook,
 
 Link to Notebook 1: https://github.com/andrewsimplebet/expected_goals_deep_dive/blob/master/1.%20Random%20Forest%20Cross%20Validation%20And%20Hyperparameter%20Tuning.ipynb
 
-Notebook 2 (soon): Comparing Logistic Regression and Random Forest For Expected Goals: In this notebook, we try to build the best logistic regression model, with a large emphasis on hand crafting features. Then, we examine the pros and cons of using logistic regression vs random forest for expected goals models.
+Notebook 2 (soon): Comparing Logistic Regression and Random Forest For Expected Goals: In this notebook, we take a look at building a logistic regression model, with an emphasis on comparing strengths/weaknesses and paint points to a Random Forest. We then  take a look at why traditional data science methodologies used thus far are not sufficient to building a strong expected goals model, and preview what will come in the rest of the series.
+
+Link to Notebook 2: https://github.com/andrewsimplebet/expected_goals_deep_dive/blob/master/2.%20Basic%20Logistic%20Regression%20and%20Comparison%20To%20Random%20Forests.ipynb
 
 Notebook 3 (soon): Calibrating an expected goals model: When our model spits out that a shot has a 30% chance it goes in, how do we know that that's accurate? In this notebook, we examine how to determine if our model's predicted probabilities are calibrated and tools to correct our model if we find that the probabilities are not calibrated.
 

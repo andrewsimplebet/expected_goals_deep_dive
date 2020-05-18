@@ -18,11 +18,11 @@ Notebook 2 (soon): Comparing Logistic Regression and Random Forest For Expected 
 
 Link to Notebook 2: https://github.com/andrewsimplebet/expected_goals_deep_dive/blob/master/2.%20Basic%20Logistic%20Regression%20and%20Comparison%20To%20Random%20Forests.ipynb
 
-Notebook 3 (soon): Calibrating an expected goals model: When our model spits out that a shot has a 30% chance it goes in, how do we know that that's accurate? In this notebook, we examine how to determine if our model's predicted probabilities are calibrated and tools to correct our model if we find that the probabilities are not calibrated.
+Notebook 3 (soon): Calibrating Expected Goals Models: When our model spits out that a shot has a 30% chance it goes in, how do we know that that's accurate? In this notebook, we examine how to determine if our model's predicted probabilities are calibrated and tools to correct our model if we find that this is not the case.
 
-Notebook 4 (soon): Building tools to showcase our expected goals model: In this notebook, we leverage David's code for plotting expected goals models, and generate plots to help answer questions about our model, and try to find useful insights to show a coach or a player.
+Link to Notebook 3: https://github.com/andrewsimplebet/expected_goals_deep_dive/blob/master/3.%20Calibrating%20Expected%20Goals%20Models.ipynb
 
-Data: For information on how to download the Wyscout data, please refer to David's video: Setting Up To Do Data Science.  In addition, please download the player data, as that is used  to determine the shooting player's favored foot. Please put the Wyscout data in the "Wyscout" folder of the repo to ensure that the code runs properly.
+Data: For information on how to download the Wyscout data, please refer to David's video: Setting Up To Do Data Science.  In addition, please download the player and matches data, as these tables are used in various spots in the series. Please put the Wyscout data in the "Wyscout" folder of the repo to ensure that the code runs properly.
 
 
-Special thanks to Wyscout for the data and FCPython for the code
+Special thanks to Wyscout for the data and FCPython for the code!
